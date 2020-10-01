@@ -1,0 +1,24 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>LoveIt</title>
+        <link>https://example.com/</link>
+        <description>关于 LoveIt 主题</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>scoloki@yandex.com (scolo)</managingEditor>
+            <webMaster>scoloki@yandex.com (scolo)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 28 Sep 2020 10:31:36 &#43;0800</lastBuildDate>
+            <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Basic_knowledge</title>
+    <link>https://example.com/basic_knowledge/</link>
+    <pubDate>Mon, 28 Sep 2020 10:31:36 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://example.com/basic_knowledge/</guid>
+    <description><![CDATA[验证方法学 动态验证与形式验证 test plan 设计 OOP 继承 多态 1 一个对象的方法可能呈现出多种形态，既可以是对象自身的，也可以是对象父类的。 virtual申明]]></description>
+</item><item>
+    <title>memory bkdr vif</title>
+    <link>https://example.com/mem_bkdr_if/</link>
+    <pubDate>Wed, 23 Sep 2020 13:24:39 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://example.com/mem_bkdr_if/</guid>
+    <description><![CDATA[背景 在ic设计验证中，每个memory都会采用一个verilog模型来模拟memory IP。而每个memory的真实存储单元都会由一个多维数]]></description>
+</item></channel>
+</rss>
